@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Adi-Mohite/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Adi-Mohite/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Adi-Mohite/DSA-LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Adi-Mohite/DSA-LeetCode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adi-Mohite/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adi-Mohite/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Adi-Mohite/DSA-LeetCode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Adi-Mohite/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Adi-Mohite/DSA-LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Adi-Mohite/DSA-LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Adi-Mohite/DSA-LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
