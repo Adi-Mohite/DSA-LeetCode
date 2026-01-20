@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adi-Mohite/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Adi-Mohite/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Adi-Mohite/DSA-LeetCode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/Adi-Mohite/DSA-LeetCode/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Adi-Mohite/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Adi-Mohite/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Adi-Mohite/DSA-LeetCode/tree/master/0274-h-index) |
 ## Math
 |  |
 | ------- |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Adi-Mohite/DSA-LeetCode/tree/master/0014-longest-common-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Adi-Mohite/DSA-LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
